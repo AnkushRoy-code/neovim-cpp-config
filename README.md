@@ -8,9 +8,6 @@
         <li>
             <a href="#install">Installation</a>
         </li>
-        <li>
-            <a href="#EchoLife-analysis">Ecotech Environment Sustainability Analysis</a>
-        </li>
     </ol>
 </details >
 This Neovim configuration is crafted by me, primarily authored with careful attention to detail. While the majority of the setup reflects my unique approach, certain configurations are sourced from various repositories, particularly adopting recommended settings from plugin authors' original repositories.
@@ -22,42 +19,7 @@ This Neovim configuration is crafted by me, primarily authored with careful atte
 </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2> Plugins </h2>
 
-The plugins used are as follows. (38)
-
-alpha-nvim <br>
-auto-session <br>
-bufferline.nvim<br>
-catppuccin<br>
-Comment.nvim <br>
-flash.nvim <br>
-gitsigns.nvim <br>
-indent-blankline.nvim <br>
-lazy.nvim <br>
-lsp_signature.nvim <br>
-lualine.nvim <br>
-none-ls.nvim <br>
-nui.nvim <br>
-nvim-lspconfig <br>
-nvim-notify<br>
-nvim-treesitter <br>
-nvim-web-devicons <br>
-plenary.nvim <br>
-telescope-fzf-native.nvim <br>
-telescope-ui-select.nvim <br>
-telescope.nvim <br>
-vim-sleuth<br>
-which-key.nvim<br>
-cmp-buffer <br>
-cmp-cmdline <br>
-cmp-nvim-lsp <br>
-cmp-path <br>
-cmp_luasnip <br>
-friendly-snippets <br>
-LuaSnip <br>
-neo-tree.nvim <br>
-nvim-cmp<br>
 
 <h2 id="install"> Installation</h2>
 To use my config clone <a href="https://github.com/AnkushRoy-code/neovim-cpp-config.git">my repo </a> to your neovim config file, in linux it is ~/.config/nvim.
