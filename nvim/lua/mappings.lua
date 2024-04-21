@@ -5,6 +5,8 @@ vim.keymap.set("n", "<leader>q", vim.diagnostic.setloclist, { desc = "Open diagn
 
 vim.keymap.set("t", "<Esc><Esc>", "<C-\\><C-n>", { desc = "Exit terminal mode" })
 
+vim.keymap.set("n", "<leader>nd", "<cmd>NoiceDismiss<CR>", { desc = "Dismiss noice messages" })
+
 vim.keymap.set("i", "<a-n>", "<Esc>o", { desc = "enter a new line below" })
 vim.keymap.set("i", "<a-p>", "<Esc>O", { desc = "enter a new line above" })
 
