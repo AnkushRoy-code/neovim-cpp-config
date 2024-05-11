@@ -52,6 +52,15 @@ This code will install the config:
 ```bash
 git clone https://github.com/AnkushRoy-code/neovim-cpp-config.git ~/.config/nvim
 ```
+<details>
+<summary> NOTE!! </summary>
+<br>
+    You might want to remove the Screenshots directory and README.md file because they are of no use. You can do that by:
+        
+    rm -rf ~/.config/nvim/Screenshots ~/.config/nvim/README.md
+</details>
+
+
 After that you can open neovim, wait a little and you should see Lazy install all the plugins.
 
 ```bash
