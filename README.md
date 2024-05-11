@@ -9,19 +9,33 @@
             <a href="#install">Installation</a>
         </li>
         <li>
-            <a href="#usage">Installation</a>
+            <a href="#usage">Usage</a>
         </li>
     </ol>
 </details >
 This Neovim configuration is crafted by me, primarily authored with careful attention to detail. While the majority of the setup reflects my unique approach, certain configurations are sourced from various repositories, particularly adopting recommended settings from plugin authors' original repositories.
 
-<h2 id="Screenshot" align="center">
+<br><br>
+
+<h2 id="Screenshot">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" class="overviews">
   <b> ScreenShots
   </b>
 </h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="Screenshots/ss1.png" >
+
+#### Completions
+
+<img src="Screenshots/suggestions.png" >
+
+#### Definition Hover
+
+<img src="Screenshots/functionDef.png" >
+
+#### Startup Screen
+
+<img src="Screenshots/Startup.png" >
 
 
 <h2 id="install"> Installation</h2>
@@ -53,9 +67,8 @@ If you are new to configuring neovim I highly recommend watching <a href="https:
 
 I stole a considerable amount of code from the <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/nvim-lua/kickstart.nvim&ved=2ahUKEwid55XN4sOFAxUnn2MGHe65Dp4QFnoECAYQAQ&usg=AOvVaw0elyrLhk3eytqxq9Vwm2zh"> Kickstart </a>project by Teej, and from <a href="https://www.youtube.com/@typecraft_dev">Typecraft</a>'s videos, his config can be found <a href="https://github.com/typecraft-dev/dotfiles/tree/master/nvim">here</a>.
 
-<h2 id="usage" align="center">
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" class="overviews">
-  <b> Usage 
-  </b>
-</h2>
+<h2 id="usage"> Usage </h2>
 
+The one thing I'd suggest will be: `<space>sk` this will open up a 'Telescope' window that has almost all keybindings listed you can search from those, it would help. Moreover I'd like you not use my config for your own good, make your own just set this as your inspiration or whatever if you like and be sure to give a star in github I don't have those :( the only person who starred my repos are just me, so if you like just star or you don't have to :) its all right
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
