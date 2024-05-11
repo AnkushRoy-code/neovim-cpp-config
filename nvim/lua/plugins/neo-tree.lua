@@ -7,7 +7,7 @@ return {
 			"nvim-tree/nvim-web-devicons",
 			"MunifTanjim/nui.nvim",
 		},
-
+		lazy = false,
 		keys = {
 			{
 				"<leader>fe",
@@ -31,5 +31,12 @@ return {
 				desc = "Buffer Explorer",
 			},
 		},
+		config = function()
+			require("neo-tree").setup({
+				window = {
+					width = 25,
+				},
+			})
+		end,
 	},
 }
