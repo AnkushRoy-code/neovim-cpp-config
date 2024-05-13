@@ -50,7 +50,7 @@ rm -rf ~/.local/share/nvim
 This code will install the config:
 
 ```bash
-git clone https://github.com/AnkushRoy-code/neovim-cpp-config.git ~/.config/nvim
+git clone https://github.com/AnkushRoy-code/neovim-cpp-config.git ~/.config/
 ```
 <details>
 <summary> NOTE!! </summary>
