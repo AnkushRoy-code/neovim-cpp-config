@@ -1,0 +1,1 @@
+../../../../dotfiles/.config/nvim/lua/plugins/mason.lua

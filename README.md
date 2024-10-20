@@ -78,6 +78,6 @@ I stole a considerable amount of code from the <a href="https://www.google.com/u
 
 <h2 id="usage"> Usage </h2>
 
-The one thing I'd suggest will be: `<space>sk` this will open up a 'Telescope' window that has almost all keybindings listed you can search from those, it would help. Moreover I'd like you not use my config for your own good, make your own just set this as your inspiration or whatever if you like and be sure to give a star in github I don't have those :( the only person who starred my repos are just me, so if you like just star or you don't have to :) its all right
+The one thing I'd suggest will be: `<space>sk` this will open up a 'Telescope' window that has almost all keybindings listed you can search from those, it would help. Also if you don't use Colemak_Mod_DH keyboard layout YOU SHOULD REMOVE THE COLEMAK PART FROM `lua/mappings.lua`. Moreover if you want to make your own nvim configuration just set this as your inspiration or whatever if you like and be sure to give a star in github I don't have those :( the only person who starred my repos are just me, so if you like just star or you don't have to :) its all right
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
