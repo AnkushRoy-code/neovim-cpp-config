@@ -13,6 +13,9 @@
         </li>
     </ol>
 </details >
+
+## This is depricated I am not updating it please head over to my [dotfiles](https://github.com/AnkushRoy-code/dotfiles) for latest nvim config.
+
 This Neovim configuration is crafted by me, primarily authored with careful attention to detail. While the majority of the setup reflects my unique approach, certain configurations are sourced from various repositories, particularly adopting recommended settings from plugin authors' original repositories.
 
 <br><br>
